@@ -1,0 +1,12 @@
+# Bỏ qua môi trường ảo
+venv/
+env/
+
+# Bỏ qua dữ liệu lớn (tránh lỗi 100MB của GitHub)
+data/
+output/
+
+# Bỏ qua các file rác của Python
+__pycache__/
+*.pyc
+.DS_Store
