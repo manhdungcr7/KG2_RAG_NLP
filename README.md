@@ -64,9 +64,5 @@ Phân tích Định tính (Qualitative Analysis):
 Trích xuất 1-2 ví dụ cụ thể (Case Study) minh họa việc KG²RAG đã kết nối các văn bản như thế nào để tìm ra câu trả lời đúng, đưa vào báo cáo tổng kết.
 
 
-Bạn cứ tiến hành commit code lên đi nhé. Xong xuôi, chúng ta sẽ bắt đầu xử lý tiếp khâu chạy Đánh giá cho các dataset còn lại và tính điểm F1!
-
-Bạn viết 1 file readme.md khác trong folder KG2RAG với nội dung như này đi
-
 
 This project is built upon the original source code from the paper [https://aclanthology.org/2025.naacl-long.449/]. We sincerely thank the original authors for their contribution to the open-source community.
